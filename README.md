@@ -31,7 +31,8 @@ Contributions to BubblePopperSimulator are welcome and valued! If you have insig
 
 ## License
 
-BubblePopperSimulator is governed by the principles of the MIT License. Refer to the [LICENSE](./LICENSE) file for complete details.
+BubblePopperSimulator Licensing and Disclaimers
+Please be advised that the Aperture BubblePopperSimulator is a proprietary creation of Aperture Science Laboratories. By using this BubblePopperSimulator, you acknowledge that you are a willing participant in GLaDOS' grand experiment. Any consequences resulting from the BubblePopperSimulator process are your sole responsibility. As a reminder, the BubblePopperSimulator program is intended for experimental purposes within controlled environments. Aperture Science Laboratories shall not be held liable for any unforeseen phenomena, dimensional rifts, or unexpected occurrences resulting from the Singularity Synthesis process. Proceed with caution...
 
 ## Acknowledgments
 
