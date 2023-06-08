@@ -41,7 +41,5 @@ BubblePopperSimulator is a tribute to the wisdom and serenity of ancient monks. 
 - [Python](https://www.python.org/) - The vessel of programming used to manifest this experience.
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) - The sacred framework that shapes the interface, reflecting simplicity and peace.
 - [Pygame](https://www.pygame.org/) - The ethereal library that resonates with sound and transports us to higher realms.
-- [PIL](https://pillow.readthedocs.io/en/stable/) - The divine Python Imaging Library, enabling the manipulation of visual elements.
-
 
 May BubblePopperSimulator be your sanctuary of tranquility, guiding you on the path to inner peace. Breathe, pop, and embrace the serenity within.
