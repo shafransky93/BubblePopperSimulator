@@ -1,7 +1,6 @@
 import random
 import tkinter as tk
 import pygame
-from PIL import Image, ImageDraw, ImageTk
 import tkinter.filedialog as tkfiledialog
 
 # Configuration
